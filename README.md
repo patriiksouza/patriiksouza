@@ -9,4 +9,6 @@ I'm creating projects like:
 - <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
 - <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
 
+[![Patrik](https://github-readme-stats.vercel.app/api?username=patriiksouza)](https://github.com/anuraghazra/github-readme-stats)
+
 
